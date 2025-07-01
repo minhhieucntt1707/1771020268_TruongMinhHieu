@@ -32,6 +32,8 @@ Cài đặt thư viện
 ```bash
 pip install cryptography  
 
+---
+
 Chạy ứng dụng:
 ```bash 
 python main.py
