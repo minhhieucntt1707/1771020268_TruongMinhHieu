@@ -31,7 +31,7 @@ NHOM 6 - TRUONG MINH HIEU - XAY DUNG GAME MA HOA NGAN HANG
 Cài đặt thư viện  
 ```bash
 pip install cryptography  
-
+```
 ---
 
 Chạy ứng dụng:
