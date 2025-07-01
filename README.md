@@ -37,7 +37,7 @@ pip install cryptography
 Chạy ứng dụng:
 ```bash 
 python main.py
-
+```
 ---
 
 ## thể lệ chơi
@@ -89,4 +89,7 @@ Tự động lên cấp khi đạt đủ điểm
 ---
 
 ## Minh họa
-![image](https://github.com/user-attachments/assets/c119e730-3e41-45d0-b658-5921f4b9870c)
+![Screenshot 2025-07-01 182718](https://github.com/user-attachments/assets/56ba5e0b-c3b2-4cb1-8846-7c11d7c9eff1)  
+![Screenshot 2025-07-01 184247](https://github.com/user-attachments/assets/55fd252e-99f2-4a6a-920b-eb6e99cc6adf)
+
+
